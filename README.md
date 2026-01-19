@@ -1,6 +1,6 @@
 # 🕷️ CrawlHQ – Web Scraping & Automation Community
 
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/jfqeSJRd)
+[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/AGwQk66vCv)
 
 **CrawlHQ** is a Discord-based community focused on **web scraping, automation, OSINT, and web analysis**, built around practical tools and real-world targets.
 
@@ -114,7 +114,7 @@ If you deal with **modern anti-bot systems**, CrawlHQ is for you.
 
 ## 🔗 Join CrawlHQ
 
-👉 **Discord:** https://discord.gg/jfqeSJRd  
+👉 **Discord:**https://discord.gg/AGwQk66vCv
 
 No spam.  
 No fake bypass claims.  
