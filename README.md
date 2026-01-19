@@ -115,7 +115,7 @@ If you deal with **modern anti-bot systems**, CrawlHQ is for you.
 
 ## 🔗 Join CrawlHQ
 
-👉 **Discord:**https://discord.gg/AGwQk66vCv
+👉 Discord: https://discord.gg/AGwQk66vCv
 
 No spam.  
 No fake bypass claims.  
